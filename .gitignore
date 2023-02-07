@@ -1,0 +1,8 @@
+env
+db
+sqlite3
+sqlite
+.db
+.sqlite
+.sqlite3
+.env
